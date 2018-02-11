@@ -1,0 +1,3 @@
+RoutingRules_PollInterval: 3000
+RoutingRules_MaxRetries : 5 
+RoutingRules_SleepTimeOutPeriod : 4
